@@ -63,7 +63,7 @@ For testing I have built a Static Design Documentation for Test Cases "Static_De
 
 Following the Static design documenation various test cases are build. Some of them are stored in "Test Cases for API Testing - Sheet1.pdf". In the sheet the red color denotes the failed test case and the green one is the updated version of the failed test case.
 
-# 5.1 testing tool
+# 5.1 Testing tool
 The testing tool used for API testing is POSTMAN. It is used for both manual and automated API testing. 
 
 # 5.2 Manual testing
@@ -71,7 +71,7 @@ To perform MANUAL testing refer to "Test Cases for API Testing - Sheet1.pdf" for
 
 # 5.3 Automated Testing
 To perform AUTOMATED testing use the following scripts in postman.
-const clientBaseUrl = pm.variables.get("clientBaseUrl");
+
 
 # 5.3.1 GetClients
 ![image](https://github.com/heygauri/GoTestAPI/assets/64316529/2f04cdb8-f36b-41c0-a803-a4780d64c96b)
