@@ -54,7 +54,7 @@ I have used the API to perform CRUD operations on "CLIENT" dataset and hence ren
 
 
 # 4. DATABASE
-NOTE: For this project I have used the local database itself as the aim is to perform the BlackBox Testing on this API. So the main focus is on testing here. 
+NOTE: For this project I have used the local database itself because the goal is to perform the BlackBox Testing on this API. So the main focus is on testing here. 
 
 The variable "clients" is a slice and is initialized to store the database in main.go file.
 
